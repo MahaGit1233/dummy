@@ -1,0 +1,5 @@
+My first Github experience
+  sooo for it i will write a code to add two numbers in javascript
+  let a=10;
+  let b=20;
+  console.log(a+b);
