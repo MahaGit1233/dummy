@@ -3,3 +3,11 @@ My first Github experience
   let a=10;
   let b=20;
   console.log(a+b);
+ok the next lines are the next commit code
+  soo for it i am going to write the famous Hello world
+but let us make it a bit dramatic
+soo we will write the code so that it will print all the letters in it
+let a='Hello World';
+for (let i=0;i<a.length;i++) {
+  console.log(a[i]);
+}
